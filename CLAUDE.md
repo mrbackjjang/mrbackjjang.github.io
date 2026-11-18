@@ -33,7 +33,7 @@ CLAUDE.md           # 이 문서
 ## 남은 할 일
 - [ ] `WORKS`의 실제 작품 정보 채우기: 지금 제목은 `Untitled 0N`, 크기는 `— × — cm`, 연도는 임시로 2026 (작가에게 받아야 함)
 - [ ] About 섹션 채우기: 작가노트(현재 임시 문장), 학력, 전시 이력, 이메일(your@email.com), 인스타그램 링크 (모두 플레이스홀더)
-- [ ] GitHub 저장소 `<아이디>.github.io`를 만들고 푸시해서 GitHub Pages로 배포
+- [x] GitHub Pages 배포 완료 (2026-11-18): 저장소 https://github.com/mrbackjjang/mrbackjjang.github.io, 사이트 https://mrbackjjang.github.io (main 브랜치 루트에서 자동 배포. 수정 후 커밋·푸시하면 1~2분 뒤 반영)
 - [ ] (선택) 도메인을 사서 Settings → Pages에서 연결
 - [ ] (선택 개선) WebP/AVIF와 `srcset`으로 이미지 추가 최적화, `og:image` 등 공유용 메타 태그, favicon, 작품 상세 확대(줌) 보기
 
